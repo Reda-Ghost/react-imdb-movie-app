@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+html {
+  scroll-behavior: smooth;
+}
+
+html, body, #root, .App {
+  min-height: 100%;
+}
+
+::-webkit-scrollbar {
+  width: 5px;
+  border-radius: 0.5rem;
+}
+::-webkit-scrollbar-thumb {
+  background: #fdd00ace;
+  border-radius: 0.5rem;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgb(25,25,25);
+}
+
+

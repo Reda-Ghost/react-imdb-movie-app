@@ -1,0 +1,11 @@
+footer {
+  padding-block: 3rem;
+  margin-top: 4rem;
+  text-align: center;
+}
+footer h5 {
+  font-size: .75rem;
+  font-style: italic;
+  color: rgba(255, 255, 255, 0.507);
+  letter-spacing: 1px;
+}
